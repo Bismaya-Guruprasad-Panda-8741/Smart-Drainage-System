@@ -281,10 +281,10 @@ Rain:YES  Dist:20cm  Level:LOW    Pump:OFF
 **BISMAYA GURUPRASAD PANDA**
 - 📧 Email: bismayabismaya04@email.com
 - 🐙 GitHub: [@bismaya-guruprasad-panda-8741](https://github.com/bismaya-guruprasad-panda-8741)
-
-With Co-Author/ My Friend
+<p>With Co-Author/ My Friend
 Debasish Nayak
-Github - https://github.com/Debasish-Nayak-556
+Github - https://github.com/Debasish-Nayak-556</p>
+
 ---
 
 ## 📄 License
@@ -292,7 +292,7 @@ Github - https://github.com/Debasish-Nayak-556
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute it for educational and personal projects.
 
 ```
-MIT License © 2025 Your Name
+MIT License © 2025 Bismaya Guruprasad Panda
 ```
 
 ---
